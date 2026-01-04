@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Ordinary",
+  "base_artist": "Alex Warren",
+  "createdAt": "2026-01-04T13:05:55.418610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anything but Ordinary",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/01_Anything_but_Ordinary_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ordinary People (Live)",
+      "artist": "John Legend feat. The Roots",
+      "has_synced": true,
+      "path": "select/02_Ordinary_People_(Live)_John_Legend_feat._The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ordinary People (Live)",
+      "artist": "John Legend & The Roots",
+      "has_synced": true,
+      "path": "select/03_Ordinary_People_(Live)_John_Legend_&_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Ordinary Boys",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/04_The_Ordinary_Boys_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Different Kind Of Blue (From 'An Ordinary Day')",
+      "artist": "Passengers",
+      "has_synced": true,
+      "path": "select/05_A_Different_Kind_Of_Blue_(From_'An_Ordinary_Day')_Passengers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Ordinary Morning",
+      "artist": "Chicane",
+      "has_synced": false,
+      "path": "select/06_No_Ordinary_Morning_Chicane.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Just An Ordinary Man - Piano Demo",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/07_Just_An_Ordinary_Man_-_Piano_Demo_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "No Ordinary Love",
+      "artist": "Sheena Easton",
+      "has_synced": false,
+      "path": "select/08_No_Ordinary_Love_Sheena_Easton.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ordinary Day",
+      "artist": "Curiosity Killed the Cat",
+      "has_synced": false,
+      "path": "select/09_Ordinary_Day_Curiosity_Killed_the_Cat.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ordinary Girl",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/10_Ordinary_Girl_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ordinary Girl",
+      "artist": "Alison Moyet",
+      "has_synced": true,
+      "path": "select/11_Ordinary_Girl_Alison_Moyet.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ordinary Girl (Remix; 2016 - Remaster)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/12_Ordinary_Girl_(Remix;_2016_-_Remaster)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ordinary Girl (Dance Mix; 2016 - Remaster)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/13_Ordinary_Girl_(Dance_Mix;_2016_-_Remaster)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ordinary Girl (dance mix)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/14_Ordinary_Girl_(dance_mix)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ordinary Girl (remix)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/15_Ordinary_Girl_(remix)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ordinary Life",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/16_Ordinary_Life_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ordinary Summer",
+      "artist": "Londonbeat",
+      "has_synced": false,
+      "path": "select/17_Ordinary_Summer_Londonbeat.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ordinary",
+      "artist": "Natalie Walker",
+      "has_synced": false,
+      "path": "select/18_Ordinary_Natalie_Walker.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ordinary Joe (feat. Terry Callier)",
+      "artist": "Nujabes feat. Terry Callier",
+      "has_synced": true,
+      "path": "select/19_Ordinary_Joe_(feat._Terry_Callier)_Nujabes_feat._Terry_Callier.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "has_synced": false,
+      "path": "select/pl_01_Ordinary_Alex_Warren.txt"
+    }
+  ]
+}
